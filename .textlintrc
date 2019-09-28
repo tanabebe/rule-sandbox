@@ -6,7 +6,7 @@
         "max": 90
       },
       "max-comma": {
-        max: 4
+        "max": 4
       },
     }
   }
