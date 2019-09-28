@@ -5,6 +5,9 @@
       "sentence-length": {
         "max": 90
       },
+      "max-comma": {
+        max: 4
+      },
     }
   }
 }
