@@ -8,6 +8,9 @@
       "max-comma": {
         "max": 4
       },
+      "max-ten": {
+        "max": 4
+      },
     }
   }
 }
