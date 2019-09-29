@@ -14,7 +14,12 @@
       "max-kanji-continuous-len": {
         "max"  : 5,
         "allow": ["漢字百科大事典"]
-      }
+      },
+      "arabic-kanji-numbers": false
+    },
+    "preset-jtf-style": {
+      "2.1.5.カタカナ": true,
+      "2.1.6.カタカナの長音": true
     }
   }
 }
