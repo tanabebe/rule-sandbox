@@ -11,6 +11,10 @@
       "max-ten": {
         "max": 4
       },
+      "max-kanji-continuous-len": {
+        "max"  : 5,
+        "allow": ["漢字百科大事典"]
+      }
     }
   }
 }
